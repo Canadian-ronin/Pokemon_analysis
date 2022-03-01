@@ -9,3 +9,8 @@ My goals for this particular project are to give you, the user to:
     4. Create pokemon teams of up to six randomized pokemon from our database
 
 Optionally, I would like to add links to the wiki pages if I finish things up early
+
+To run this project, you will need to have installed the following:
+- Pandas 
+
+To use this program you will be prompted to select an option by typing a number 1-
