@@ -14,4 +14,6 @@ To run this project, you will need to have installed the following:
 - Random
 - matplotlib
 
-To use this program, read through the very first initial markdown for a summary of what each cell will do, you will need to run the first cell in which you'll need to have 
+To use this program, read through the very first initial markdown for a summary of what each cell will do, you will need to run the first cell in which you'll need to have installed the modules listed above. 
+
+The three listed features are separated by their markdowns, so if you want to run one feature, you would need to run all the respective cells for that markdown as indicated in said markdown. 
